@@ -1,2 +1,2 @@
 # Music-website
-Spotify app clone
+Dynamic music website
